@@ -1,12 +1,12 @@
 import React from 'react';
-import Description from '../components/home-comp/protest-des';
+import Description from '../components/home-comp/description';
 import TopBar from '../components/home-comp/top-bar';
 
 function HomePage(){
     return(
         <div>
             <TopBar />
-            <h1>bgu</h1>
+            <h1 style={{textAlign: "center"}}>bgu</h1>
             <Description />
         </div>
     );

@@ -1,0 +1,10 @@
+.textBox-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    width: 35%;
+    height: 40em;
+    text-align: left;
+    border: 1px solid black;
+    margin-left: 1%;
+}
